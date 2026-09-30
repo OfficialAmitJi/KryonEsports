@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CosmoRush</string>
+    <string name="play_endless">Endless Odyssey</string>
+    <string name="play_multiplayer">Multiplayer Arena</string>
+    <string name="daily_challenges">Daily Challenges</string>
+    <string name="leaderboards">Global Leaderboard</string>
+    <string name="comms_chat">Comms &amp; Chat</string>
+    <string name="profile_wardrobe">Hangar &amp; Profile</string>
+    <string name="season_title">Season 4: Cyber Rift</string>
+</resources>

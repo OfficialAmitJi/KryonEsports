@@ -1,0 +1,6 @@
+{
+  "name": "CosmoRush",
+  "description": "Cross-platform endless multiplayer arena game with global matchmaking, voice chat, daily community challenges, and leaderboards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
